@@ -1,3 +1,4 @@
-walk the dogwalk the boy
-fix door
-talk to wife
+walk the dog
+talk to lady
+walk the boy
+add lastly
